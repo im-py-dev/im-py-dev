@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Python Developer
-- 👀 Looking for a job
-- 🌱 Learning [AWS, React]
-- 💞️ I’m looking to collaborate on Freelance Projects
+- 👀 Looking for a remote job
+- 🌱 Learning now [AWS, React]
+- 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on <a href="https://wa.me/+963992336634" target="_blank">Whatsapp</a> | <a href="https://t.me/Im_Py_Dev" target="_blank">Telegram</a>
 
 <br>
