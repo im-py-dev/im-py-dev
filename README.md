@@ -1,6 +1,7 @@
 - 👋 Hi, @im-py-dev
+- I'm Python Developer
 - 👀 Looking for a job
-- 🌱 Learning Web development (Backend)
+- 🌱 Learning [AWS, React]
 - 💞️ I’m looking to collaborate on Freelance Projects
 - 📫 Reach me on <a href="https://wa.me/+963992336634" target="_blank">Whatsapp</a> | <a href="https://t.me/Im_Py_Dev" target="_blank">Telegram</a>
 
