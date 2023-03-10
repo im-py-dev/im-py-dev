@@ -1,5 +1,4 @@
-- 👋 Hi, @im-py-dev
-- I'm Python Developer
+- 👋 Hi, I'm Python Developer
 - 👀 Looking for a job
 - 🌱 Learning [AWS, React]
 - 💞️ I’m looking to collaborate on Freelance Projects
