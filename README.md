@@ -25,5 +25,3 @@
 </div>
   
   </div>
-
-<a href="https://app.daily.dev/impydev"><img src="https://api.daily.dev/devcards/9cd2718b67bf470b93c5cbb291d25fc4.png?r=ljs" width="400" alt="Ali Mughrabi's Dev Card"/></a>
