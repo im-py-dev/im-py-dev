@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I'm Python Developer
 - 👀 Looking for a remote job
 - 🌱 Learning now [AWS, React]
@@ -6,6 +8,11 @@
 
 <br>
 <div id="header" align="center">
+  <a href="https://github.com/im-py-dev">
+    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ali%20Mughrabi;Python%20Developer" alt="Typing SVG" />
+</a>
+  
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
