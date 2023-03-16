@@ -31,4 +31,8 @@
   </a>
 </div>
   
+  <a href="https://github.com/im-py-dev">
+    <img src="https://github-stats-alpha.vercel.app/api?username=im-py-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+  
   </div>
