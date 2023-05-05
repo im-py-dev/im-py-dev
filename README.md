@@ -4,7 +4,7 @@
 - 👀 Looking for a remote job
 - 🌱 Learning now [AWS, React]
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me on <a href="https://wa.me/+963992336634" target="_blank">Whatsapp</a> | <a href="https://t.me/Im_Py_Dev" target="_blank">Telegram</a>
+- 📫 Reach me on <a href="https://wa.me/+963992336634" target="_blank">Whatsapp</a> | <a href="https://t.me/SY_Aloosh" target="_blank">Telegram</a>
 
 <br>
 <div id="header" align="center">
