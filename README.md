@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I'm Python Developer
+- 👋 Hi, I'm Software Developer
 - 👀 Looking for a remote job
 - 🌱 Learning now [AWS, React]
 - 💞️ I’m looking to collaborate on Projects
