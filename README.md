@@ -1,8 +1,8 @@
 
 
 - 👋 Hi, I'm Software Developer
-- 👀 Looking for a remote job
-- 🌱 Learning now [AWS, React]
+- 💼 Working as freelancer (<a href="https://www.upwork.com/workwith/impydev" target="_blank">UpWork</a>)
+- 🌱 Learning now AWS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on <a href="https://wa.me/+963992336634" target="_blank">Whatsapp</a> | <a href="https://t.me/SY_Aloosh" target="_blank">Telegram</a>
 
