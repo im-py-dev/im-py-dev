@@ -9,7 +9,7 @@
 <br>
 <div id="header" align="center">
   <a href="https://github.com/im-py-dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ali%20Mughrabi;Backend%20Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ali%20Mughrabi;Full-Stack%20Developer" alt="Typing SVG" />
 </a>
   
   
